@@ -24,9 +24,9 @@ Air pollution forecasting is solved by training regression models that estimate 
 
 ```text
 .
-├── Client1/        # Task scheduler / job executor (C# / .NET)
-├── Client2/        # Alternate client tasks (C# / .NET)
-├── Model/          # Python machine learning models and training code
+├── ClientDelete/   # Background job responsible for permanently removing outdated records (older than 2 days)
+├── ClientPost/     # Background job that fetches open-source data from public APIs and stores it in the local database
+├── Model/          # Machine learning model XGBoost and training code writed in python
 ├── Server/         # .NET Web API for serving predictions
 └── README.md
 ```
