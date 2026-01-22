@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5eUAqr5H0LlYBrfN6fAGOAmFMGPILseBcDddK2XtcxlOOezsC+d/yH306BLAapeEd+YcHaBone8JQ8JjGN6bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franczi\\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\\Desktop\\AirPollutionPredictionFinal\\ClientPost\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franczi\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Franczi\\.nuget\\packages\\htmlagilitypack\\1.11.49\\htmlagilitypack.1.11.49.nupkg.sha512",
+    "C:\\Users\\Franczi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Franczi\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512",
+    "C:\\Users\\Franczi\\.nuget\\packages\\selenium.webdriver.chromedriver\\126.0.6478.12600\\selenium.webdriver.chromedriver.126.0.6478.12600.nupkg.sha512"
+  ],
+  "logs": []
+}

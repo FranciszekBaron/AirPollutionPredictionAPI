@@ -1,0 +1,69 @@
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\Client.exe
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\Client.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\ref\Client.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\obj\Debug\net7.0\Client.csproj.CopyComplete
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\Client\bin\Debug\net7.0\WebDriver.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\Client.exe
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\Client.deps.json
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\Client.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\Client.pdb
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\bin\Debug\net7.0\WebDriver.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.csproj.CopyComplete
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\refint\Client.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.pdb
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientPost\obj\Debug\net7.0\ref\Client.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\Client.exe
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\Client.deps.json
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\Client.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\Client.pdb
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\bin\Debug\net7.0\WebDriver.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.csproj.CopyComplete
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\refint\Client.dll
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.pdb
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\Franczi\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Desktop\AirPollutionPredictionFinal\ClientPost\obj\Debug\net7.0\ref\Client.dll

@@ -1,0 +1,53 @@
+version: '2.24'
+
+networks:
+  dev:
+    driver: bridge
+
+services:
+  airpollution:
+    image: dokcer.io/library/airpollution
+    depends_on:
+      - "app_db"
+    container_name: airpollution
+    ports:
+      - "8080:80"
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - ConnectionStrings__DefaultConnection=data source=localhost;database=master;Integrated Security=True;MultipleActiveResultSets=True;Encrypt=False;
+      - ASPNETCORE_URLS=http://+:80
+    networks: 
+      - dev
+
+  app_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: app_db 
+    environment:
+      - ACCEPT_EULA=y
+      - SA_PASSWORD=AirPollution12###$$
+    restart: always
+    volumes:
+      - airpollution_data:/var/lib/sqlserver/data
+    networks:
+      - dev
+
+
+  fastapi_app:
+    image: docker.io/library/model
+    container_name: fastapi_app
+    ports:
+      - "8000:8000"
+    build:
+      context: C:/Users/fbaron/Documents/AirPollutionPrediction/Model
+      dockerfile: Dockerfile
+    networks:
+      - dev
+
+volumes:
+  airpollution_data:
+        
+
+
+    

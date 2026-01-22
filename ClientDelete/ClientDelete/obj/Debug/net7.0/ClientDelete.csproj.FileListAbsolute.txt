@@ -1,0 +1,15 @@
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\bin\Debug\net7.0\ClientDelete.exe
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\bin\Debug\net7.0\ClientDelete.deps.json
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\bin\Debug\net7.0\ClientDelete.runtimeconfig.json
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\bin\Debug\net7.0\ClientDelete.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\bin\Debug\net7.0\ClientDelete.pdb
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.csproj.AssemblyReference.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.AssemblyInfoInputs.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.AssemblyInfo.cs
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.csproj.CoreCompileInputs.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\refint\ClientDelete.dll
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.pdb
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ClientDelete.genruntimeconfig.cache
+C:\Users\fbaron\Documents\AirPollutionPrediction\ClientDelete\ClientDelete\obj\Debug\net7.0\ref\ClientDelete.dll

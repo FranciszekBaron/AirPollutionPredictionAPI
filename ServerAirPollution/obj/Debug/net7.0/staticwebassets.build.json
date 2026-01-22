@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mpNzameElczcyOyYcwtVUfFLxY0IGg8865Xc78KPVUs=",
+  "Source": "AirPollutionPrediction",
+  "BasePath": "_content/AirPollutionPrediction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
