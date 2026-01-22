@@ -1,0 +1,26 @@
+# --- C# files ---
+*.cs linguist-language=C#
+*.csproj linguist-language=C#
+*.sln linguist-language=C#
+
+# --- Python files ---
+*.py linguist-language=Python
+
+# --- Markup / frontend files (nie liczone do statystyk) ---
+*.html linguist-vendored=true
+*.css linguist-vendored=true
+*.js linguist-vendored=true
+*.json linguist-vendored=true
+
+# --- Config / docs files (nie liczone) ---
+*.md linguist-vendored=true
+*.yml linguist-vendored=true
+*.yaml linguist-vendored=true
+*.txt linguist-vendored=true
+
+# --- Binaries / build / outputs (nie liczone) ---
+bin/* linguist-vendored=true
+obj/* linguist-vendored=true
+*.dll linguist-vendored=true
+*.exe linguist-vendored=true
+*.pyc linguist-vendored=true
